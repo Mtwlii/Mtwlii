@@ -40,7 +40,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🛒 [FreshCart](https://github.com/Mtwlii/freshcart) | Full e-commerce app with cart, wishlist & auth | Next.js, TypeScript, Tailwind |
+| 🛒 [FreshCart](https://github.com/Mtwlii/E-Commerce) | Full e-commerce app with cart, wishlist & auth | Next.js, TypeScript, Tailwind |
 | 🌐 [Social App](https://github.com/Mtwlii/social-app) | Social media app with posts, image upload & auth | React, TanStack Query, Tailwind |
 
 ---
