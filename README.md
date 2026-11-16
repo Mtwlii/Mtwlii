@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mtwlii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:metwlii.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Mtwlii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mtwlii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:metwlii.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Mtwlii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🚀 Frontend & Full-Stack developer building clean, responsive web apps with React, Next.js, TypeScript, and Node.js
-- 🎓 Completed a 6-month advanced React & Next.js program at Elevate (2026)
+- 🎓 Completed Route Academy's Frontend Development Track, then a 6-month advanced React & Next.js program at Elevate (2026)
 - 🧑‍🏫 Online instructor teaching C++, Python, and CS fundamentals to university students
 - 🌱 Currently finishing the **NGL App** backend and working on two new projects
 - 📍 Based in Cairo, Egypt, open to Frontend and Full-Stack roles
@@ -48,6 +48,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -62,23 +63,18 @@
 |---|---|---|---|
 | 🛒 **FreshCart** | Full e-commerce app with NextAuth login, protected routes, cart, wishlist, and Stripe checkout | Next.js, TypeScript, Tailwind, NextAuth, Stripe | [Live](https://e-commerce-jet-phi.vercel.app/) · [Code](https://github.com/Mtwlii/E-Commerce) |
 | 🌐 **SocialHub** | Social media app with posts, image upload, follow system, bookmarks, and dark mode | React, TanStack Query, React Hook Form, Zod, Framer Motion | [Live](https://socialhub-blond-delta.vercel.app/login) · [Code](https://github.com/Mtwlii/social-app) |
-| 🔐 **NGL App** | Backend API for an anonymous messaging app, built in clear layers with JWT login, email OTP verification, Google Sign-In, Zod validation, and rate limiting | Node.js, Express, MongoDB, Zod, JWT | [Code](https://github.com/Mtwlii/ngl-app) |
-| ☕ **EVO Café Menu** | Bilingual (RTL) menu website for a café | Frontend | [Live](https://evo-caffe-menu.vercel.app/) · [Code](https://github.com/Mtwlii/EVO-Caffe-Menu) |
+| 🔐 **NGL App** | Backend API for an anonymous messaging app, built in clear layers with JWT login, email OTP verification, Google Sign-In, Zod validation, rate limiting, and Redis caching | Node.js, Express, MongoDB, Redis, Zod, JWT | [Code](https://github.com/Mtwlii/ngl-app) |
+| ☕ **EVO Café Menu** | Bilingual (RTL) menu website for a café | HTML, CSS, JavaScript | [Live](https://evo-caffe-menu.vercel.app/) · [Code](https://github.com/Mtwlii/EVO-Caffe-Menu) |
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mtwlii&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mtwlii&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mtwlii&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mtwlii&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mtwlii&theme=tokyonight" />
+  <img alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mtwlii&theme=tokyonight" />
 </p>
 
 ---
