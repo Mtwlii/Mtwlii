@@ -7,7 +7,7 @@
 **React · Next.js · TypeScript · Node.js**
 
 ![Open to work](https://img.shields.io/badge/Open_to_work-Frontend_%26_Full--Stack-2ea44f?style=for-the-badge)
-![Location](https://img.shields.io/badge/Cairo%2C_Egypt-Remote_%26_On--site-0366d6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Cairo%2C_Egypt-Remote_%26_On--site_Worldwide-0366d6?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/mtwlii"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:metwlii.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -30,7 +30,7 @@ I care about clean structure, type safety, validated input, and APIs that are se
 
 | | |
 |---|---|
-| 🎯 **Looking for** | Frontend or Full-Stack roles (remote or Cairo-based) |
+| 🎯 **Looking for** | Frontend or Full-Stack roles (remote or on-site, anywhere; open to relocating) |
 | 🧠 **Strongest at** | React, Next.js, TypeScript, REST APIs with Node.js |
 | 🌱 **Currently** | Finishing the NGL App backend and building two new projects |
 | ✍️ **Sharing** | Short backend-fundamentals posts on [LinkedIn](https://www.linkedin.com/in/mtwlii) |
@@ -140,5 +140,6 @@ Also comfortable with **C++** and **Python** (I teach both).
 
 ## 📫 Let's Connect
 
-I'm open to **Frontend and Full-Stack** opportunities, remote or in Cairo.
+I'm open to **Frontend and Full-Stack** opportunities, remote or on-site, anywhere. I am open to relocating.
 The fastest way to reach me is by email: **[metwlii.dev@gmail.com](mailto:metwlii.dev@gmail.com)**, or message me on [LinkedIn](https://www.linkedin.com/in/mtwlii).
+
