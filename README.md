@@ -2,7 +2,7 @@
 
 # Hi, I'm Metwaly Mohamed 👋
 
-### Frontend & Full-Stack Developer
+### Software Engineer
 
 **React · Next.js · TypeScript · Node.js**
 
